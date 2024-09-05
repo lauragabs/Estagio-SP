@@ -18,3 +18,14 @@ Este repositório contém uma série de desafios técnicos resolvidos como parte
 
 5. **Inversão de String:**
    - Programa que inverte os caracteres de uma string informada.
+  
+## Arquivos
+
+- `faturamento.json`: Dados de faturamento para o desafio de faturamento diário.
+- `pom.xml`: Arquivo de configuração do Maven.
+- `src/DistribuidoraPercentual.java`: Código para calcular o percentual de representação por estado.
+- `src/InverterString.java`: Código para inverter uma string.
+- `src/fibonacci.java`: Código para verificar a presença de um número na sequência de Fibonacci.
+- `src/variavelSoma.java`: Código para calcular a soma de variáveis.
+- `src/vetorFaturamento.java`: Código para calcular o menor e o maior valor de faturamento diário e dias acima da média.
+
